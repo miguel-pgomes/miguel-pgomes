@@ -1,5 +1,5 @@
 ### Hello!
-🔭 I’m currently working as Azure FastTrack Customer engineer at Microsoft ...
+🔭 I’m currently working as Azure FastTrack Customer Engineer at Microsoft ...
 <!--
 **miguel-pgomes/miguel-pgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
